@@ -97,4 +97,4 @@ Migrate to Vivado with updated IP cores
 
 ## Author
 - Nicoli Andrei - Claudiu
-- Second-year student at University of Craiova, Faculty of Automation, Computers and Electronics
+- Second-year student at University of Craiova, Faculty of Automatics, Computer Science and Engineering
